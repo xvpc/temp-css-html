@@ -1,4 +1,4 @@
-# temp-css-html
+# Template portfolio example
 Portfolio using only Css and Html 
 
 This Design made for learning purposes using no Javascript but only Css and Html
